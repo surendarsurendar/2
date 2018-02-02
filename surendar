@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main()
+{
+char a;
+printf("enter a word");
+scanf("%c",&a);
+if((a>=z&&a<=z))
+PRINTF("WORD Is alphabet");
+else if((a>=z&&a<=z))
+printf("WORD IS not alphabet");
+getch90;
+return 0;
+}
