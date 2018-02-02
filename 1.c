@@ -2,7 +2,7 @@
 #inclue <conio.h>
 int main()
 {
-int year;
+int  year;
 printf("enter a year");
 scanf("%d",&year);
 
